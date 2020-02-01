@@ -1,0 +1,6 @@
+C:\Users\mahad\source\repos\ReadExcelAgain\ReadExcelAgain\bin\Debug\ReadExcelAgain.exe.config
+C:\Users\mahad\source\repos\ReadExcelAgain\ReadExcelAgain\bin\Debug\ReadExcelAgain.exe
+C:\Users\mahad\source\repos\ReadExcelAgain\ReadExcelAgain\bin\Debug\ReadExcelAgain.pdb
+C:\Users\mahad\source\repos\ReadExcelAgain\ReadExcelAgain\obj\Debug\ReadExcelAgain.csprojAssemblyReference.cache
+C:\Users\mahad\source\repos\ReadExcelAgain\ReadExcelAgain\obj\Debug\ReadExcelAgain.exe
+C:\Users\mahad\source\repos\ReadExcelAgain\ReadExcelAgain\obj\Debug\ReadExcelAgain.pdb
